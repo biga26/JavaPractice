@@ -11,16 +11,11 @@ public class PassArg {
 		displayValue((int)x);
 		
 		//displayValue(x*4);
-		
-		
 
 	}
 	
 	public static void displayValue(int num1) {
-		
-		System.out.println("The value is " + num1); 
-	
-		
+		System.out.println("The value is " + num1);
 	}
 	
 	

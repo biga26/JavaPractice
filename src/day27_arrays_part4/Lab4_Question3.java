@@ -19,14 +19,11 @@ public class Lab4_Question3 {
 		if(!(y.length>1)) {
 			return "Array 2 is not valid";
 		}
-		
-		
 		if(x[0]==y[0] || x[x.length-1]==y[y.length-1]) {
 			return "true";
 		}else {
 			return "false";
 		}
-		
 	}
 
 }

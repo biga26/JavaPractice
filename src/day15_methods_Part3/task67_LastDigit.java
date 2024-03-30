@@ -22,7 +22,6 @@ public class task67_LastDigit {
 			}else {
 				return false;
 			}
-
 	}
 	
 	

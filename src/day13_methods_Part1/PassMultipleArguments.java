@@ -3,11 +3,7 @@ package day13_methods_Part1;
 public class PassMultipleArguments {
 
 	public static void main(String[] args) {
-		
-		
-	
-		
-		
+
 		showSum(5,10);
 		showSum(50,20);
 		showSum(60,1);

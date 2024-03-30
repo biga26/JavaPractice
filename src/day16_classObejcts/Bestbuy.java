@@ -1,6 +1,6 @@
 package day16_classObejcts;
 
-public class Bestbuy {
+public class   Bestbuy {
 
 	public static void main(String[] args) {
 		

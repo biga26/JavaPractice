@@ -9,8 +9,6 @@ public class MethodOverloading {
 		
 		int x = sum(10, 20, 30, 40);
 		System.out.println(x);
-		
-		
 
 	}
 	

@@ -9,7 +9,9 @@ public class Concatenation {
 		System.out.println("Hello, my number is " + 10);
 		
 		int number = 10;
+
 		System.out.println("Hello, my number is " + number);
+
 		
 		
 

@@ -15,7 +15,6 @@ public class task69_Prime {
 
 	}
 	
-	
 	public static boolean isPrime(int number) {
 		
 		boolean  flag = true;
